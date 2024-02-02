@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Luis</h1>
 <h3 align="center">A passionate full-stack developer from California</h3>
 <div align="center">
-<img alt="Coding" width="500" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo0bjB2bXFhaW1pZXg3aWRrYWRqOHh6b3d1dWFxMmFpaHk4cmtsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
+<img alt="Coding" width="400" src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHo0bjB2bXFhaW1pZXg3aWRrYWRqOHh6b3d1dWFxMmFpaHk4cmtsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryancluis&label=Profile%20views&color=0e75b6&style=flat" alt="ryancluis" /> </p>
