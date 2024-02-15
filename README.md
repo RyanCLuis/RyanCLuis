@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **ryancluis@gmail.com**
 
+<a href="" target="_blank"> 📝
+
 - ⚡ Fun fact **I think I'm great at video games, truth is I'm in denial**
 
 <h3 align="left">Connect with me:</h3>
