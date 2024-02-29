@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ryancluis@gmail.com**
 
-- Here is my Resume <a href="" target="blank"><img align="center" src="https://github.com/RyanCLuis/RyanCLuis/assets/150068816/f12e930c-af83-4511-89ae-37050bbfe513" alt="@ryan-luis" height="30" width="40" /></a>
+- Here is my Resume <a href="" target="blank"><img align="center" src="https://drive.google.com/file/d/129qIULN4yXSv-cTtiSXjiQ5w3QO7MIuQ/view?usp=sharing" alt="@ryan-luis" height="30" width="40" /></a>
 
 - ⚡ Fun fact **I think I'm great at video games, truth is I'm in denial**
 
